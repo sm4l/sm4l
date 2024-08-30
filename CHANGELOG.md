@@ -1,5 +1,6 @@
 ## 03/09
-- [ ] 
+- [ ] Levantamento SCA APIs abertas.
+ 
 
 ## 02/09
 - [ ] NUC Instalacao Grafana 
@@ -21,7 +22,7 @@
 - [x] backup aplicação
 - [x] backup node
 - [x] backup esturura db
-- [ ] Pesquisa Cameras LPR: Intelbras tem modelo VIP 7250 LPR IA FT G2 - com IA que identifica cor e marca - PENDENTE TESTES EM BANCADA
+- [x] Pesquisa Cameras LPR: Intelbras tem modelo VIP 7250 LPR IA FT G2 - com IA que identifica cor e marca - PENDENTE TESTES EM BANCADA
 
 ## 29/08
-- [x] Tests iniciais conversao para protocolo OPCUA
+- [x] Testes iniciais conversão para protocolo OPCUA
