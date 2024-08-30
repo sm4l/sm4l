@@ -3,7 +3,7 @@
 - [x] Criação do dashboard [1.3 FOODSERVICE ](http://datawatcher360.online/d/ddw7lsxomvnr4e/1-3-foodservice?orgId=1)
 - [x] Lógica de alarmes do painel NOTIFIER
 - [x] Testes com cenario de escrita na planilha do sheets via MAKE
-- [x] reconfiguracao da pagina IMAGENS - CASE LOCALIZA  com ordenacao via data modificada.
+- [x] reconfiguracao da pagina [IMAGENS - CASE LOCALIZA](http://datawatcher360.online:5000/images)  com ordenacao via data modificada.
 
 ## 29/08
 - [x] Criado dashboard de  [1.2 FARMACIAS](http://datawatcher360.online/d/bdw6r2irh6osge/1-2-farmacias?orgId=1&refresh=15m)
