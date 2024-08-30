@@ -15,4 +15,4 @@
 - [ ] Pesquisa Cameras LPR: Intelbras tem modelo VIP 7250 LPR IA FT G2 - com IA que identifica cor e marca - PENDENTE TESTES EM BANCADA
 
 ## 29/08
-- [x] Tests iniciais conversao 
+- [x] Tests iniciais conversao para protocolo OPCUA
