@@ -1,9 +1,15 @@
+## 05/09
+- [ ] Pesquisa Camera IP para teste  YOLO
+
+## 04/09
+- [ ] CERTIFICADO SSL.
+
 ## 03/09
 - [ ] Levantamento SCA APIs abertas.
  
 
 ## 02/09
-- [ ] NUC Instalacao Grafana 
+- [ ] NUC Instalacao Plataforma 
 - [ ] NUC Configuracao HTTP server para exibir imagens
 - [ ] NUC config painel [CASE LOCALIZA](http://172.16.21.26:3000/d/cdum1mjw0fmkgb/case-localiza?orgId=1&refresh=5s)
 
