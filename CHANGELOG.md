@@ -11,11 +11,11 @@
 
 ## 02/09
 - [X] NUC Instalacao Plataforma
-     - realizada a instalação das aplicações e back-end para funcionamento. 
+- realizada a instalação das aplicações e back-end para funcionamento. 
 - [X] NUC Configuracao HTTP server para exibir imagens
-      - script para visualizacao dos dados de forma online
+- script para visualizacao dos dados de forma online
 - [X] NUC config painel [CASE LOCALIZA](http://172.16.21.26:3000/d/cdum1mjw0fmkgb/case-localiza?orgId=1&refresh=5s)
-      -criado o sistema de visualização off-line, sem necessidade de conexão com a internet.
+- criado o sistema de visualização off-line, sem necessidade de conexão com a internet.
       
 ## 30/08
 - [x] Debug do módulo de reset do painel NOTIFIER
