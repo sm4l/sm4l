@@ -10,10 +10,13 @@
  
 
 ## 02/09
-- [X] NUC Instalacao Plataforma 
+- [X] NUC Instalacao Plataforma
+     - realizada a instalação das aplicações e back-end para funcionamento. 
 - [X] NUC Configuracao HTTP server para exibir imagens
+      - script para visualizacao dos dados de forma online
 - [X] NUC config painel [CASE LOCALIZA](http://172.16.21.26:3000/d/cdum1mjw0fmkgb/case-localiza?orgId=1&refresh=5s)
-
+      -criado o sistema de visualização off-line, sem necessidade de conexão com a internet.
+      
 ## 30/08
 - [x] Debug do módulo de reset do painel NOTIFIER
 - [x] Criação do dashboard [1.3 FOODSERVICE ](http://datawatcher360.online/d/ddw7lsxomvnr4e/1-3-foodservice?orgId=1)
