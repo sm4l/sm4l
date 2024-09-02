@@ -1,17 +1,18 @@
 ## 05/09
-- [ ] Pesquisa Camera IP para teste  YOLO
+- [ ] Pesquisa Camera IP para teste  YOLO - Verificar com Edson possibilidade de poc camera Intelbras
 
 ## 04/09
 - [ ] CERTIFICADO SSL.
 
 ## 03/09
 - [ ] Levantamento SCA APIs abertas.
+- [ ] Criação Dashboard [1.4 SUPERMERCADOS](http://datawatcher360.online/d/cdwokjwmqdf5sf/1-4-supermercados?orgId=1&from=now-15m&to=now)
  
 
 ## 02/09
-- [ ] NUC Instalacao Plataforma 
-- [ ] NUC Configuracao HTTP server para exibir imagens
-- [ ] NUC config painel [CASE LOCALIZA](http://172.16.21.26:3000/d/cdum1mjw0fmkgb/case-localiza?orgId=1&refresh=5s)
+- [X] NUC Instalacao Plataforma 
+- [X] NUC Configuracao HTTP server para exibir imagens
+- [X] NUC config painel [CASE LOCALIZA](http://172.16.21.26:3000/d/cdum1mjw0fmkgb/case-localiza?orgId=1&refresh=5s)
 
 ## 30/08
 - [x] Debug do módulo de reset do painel NOTIFIER
