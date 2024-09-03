@@ -1,3 +1,6 @@
+## 06/09
+- [ ] 
+
 ## 05/09
 - [ ] Pesquisa Camera IP para teste  YOLO - Verificar com Edson possibilidade de poc camera Intelbras
 
@@ -7,15 +10,16 @@
 ## 03/09
 - [ ] Levantamento SCA APIs abertas.
 - [ ] Criação Dashboard [1.4 SUPERMERCADOS](http://datawatcher360.online/d/cdwokjwmqdf5sf/1-4-supermercados?orgId=1&from=now-15m&to=now)
- 
+- [ ] Deixar pagina galeria de imagens localiza mais apresentável
 
 ## 02/09
 - [X] NUC Instalacao Plataforma
 - realizada a instalação das aplicações e back-end para funcionamento. 
 - [X] NUC Configuracao HTTP server para exibir imagens
-- script para visualizacao dos dados de forma online
+- script para visualizacao dos dados de forma online [/images](http://172.16.21.26:5000/images)
 - [X] NUC config painel [CASE LOCALIZA](http://172.16.21.26:3000/d/cdum1mjw0fmkgb/case-localiza?orgId=1&refresh=5s)
 - criado o sistema de visualização off-line, sem necessidade de conexão com a internet.
+- [x] Adição da planta baixa no dashboard [1.2 FARMACIAS](http://datawatcher360.online/d/bdw6r2irh6osge/1-2-farmacias?orgId=1&refresh=15m)
       
 ## 30/08
 - [x] Debug do módulo de reset do painel NOTIFIER
