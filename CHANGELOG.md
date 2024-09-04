@@ -6,6 +6,8 @@
 
 ## 04/09
 - [ ] CERTIFICADO SSL.
+- [x] SCRIPT ONVIF para qualquer camera virar ANPR, criado o script para detectar se é um carro que usa o modelo YOLO. 
+      
 
 ## 03/09
 - [ ] Levantamento SCA APIs abertas.
