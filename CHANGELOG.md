@@ -8,11 +8,13 @@
 - [ ] Padronizar Config.yaml do nuc para o car.py
 
 ## 04/09
-- [x] SCRIPT ONVIF para qualquer camera virar ANPR, criado o script para detectar se é um carro que usa o modelo YOLO. 
+- [x] SCRIPT ONVIF/MJPEG para qualquer camera virar ANPR, criado o script para detectar se é um carro que usa o modelo YOLO.
+- [ ] **Falta testar com outras marcas e adaptar o link de stream**. 
      
 ## 03/09
 - [x] Criação Dashboard [1.4 SUPERMERCADOS](http://datawatcher360.online/d/cdwokjwmqdf5sf/1-4-supermercados?orgId=1&from=now-15m&to=now)
 - [x] Deixar pagina galeria de imagens localiza mais apresentável
+- [ ] ![image](https://github.com/user-attachments/assets/48182090-0e42-4cb8-a9b7-2b9f242dadec)
 
 ## 02/09
 - [X] NUC Instalacao Plataforma
