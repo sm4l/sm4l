@@ -1,18 +1,19 @@
 ## 06/09
 - [ ] Criação do Dashboard 1.5 GALPÕES
+- [ ] Levantamento SCA APIs abertas.
 
 ## 05/09
+- [ ] CERTIFICADO SSL.
 - [ ] Pesquisa Camera IP para teste  YOLO - Verificar com Edson possibilidade de poc camera Intelbras
 
 ## 04/09
-- [ ] CERTIFICADO SSL.
 - [x] SCRIPT ONVIF para qualquer camera virar ANPR, criado o script para detectar se é um carro que usa o modelo YOLO. 
       
 
 ## 03/09
-- [ ] Levantamento SCA APIs abertas.
-- [ ] Criação Dashboard [1.4 SUPERMERCADOS](http://datawatcher360.online/d/cdwokjwmqdf5sf/1-4-supermercados?orgId=1&from=now-15m&to=now)
-- [ ] Deixar pagina galeria de imagens localiza mais apresentável
+
+- [x] Criação Dashboard [1.4 SUPERMERCADOS](http://datawatcher360.online/d/cdwokjwmqdf5sf/1-4-supermercados?orgId=1&from=now-15m&to=now)
+- [x] Deixar pagina galeria de imagens localiza mais apresentável
 
 ## 02/09
 - [X] NUC Instalacao Plataforma
