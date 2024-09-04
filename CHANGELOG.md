@@ -5,13 +5,12 @@
 ## 05/09
 - [ ] CERTIFICADO SSL.
 - [ ] Pesquisa Camera IP para teste  YOLO - Verificar com Edson possibilidade de poc camera Intelbras
+- [ ] Padronizar Config.yaml do nuc para o car.py
 
 ## 04/09
 - [x] SCRIPT ONVIF para qualquer camera virar ANPR, criado o script para detectar se é um carro que usa o modelo YOLO. 
-      
-
+     
 ## 03/09
-
 - [x] Criação Dashboard [1.4 SUPERMERCADOS](http://datawatcher360.online/d/cdwokjwmqdf5sf/1-4-supermercados?orgId=1&from=now-15m&to=now)
 - [x] Deixar pagina galeria de imagens localiza mais apresentável
 
