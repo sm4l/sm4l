@@ -1,9 +1,9 @@
 ## 06/09
 - [ ] Criação do Dashboard 1.5 GALPÕES
 - [ ] Levantamento SCA APIs abertas.
+- [ ] CERTIFICADO SSL.
 
 ## 05/09
-- [ ] CERTIFICADO SSL.
 - [ ] Pesquisa Camera IP para teste  YOLO - Verificar com Edson possibilidade de poc camera Intelbras
 - [ ] Padronizar Config.yaml do nuc para o car.py
 
