@@ -1,7 +1,9 @@
+## 09/09
+- [ ] CERTIFICADO SSL.
+
 ## 06/09
 - [ ] Criação do Dashboard 1.5 GALPÕES
 - [ ] Levantamento SCA APIs abertas.
-- [ ] CERTIFICADO SSL.
 
 ## 05/09
 - [ ] Pesquisa Camera IP para teste  YOLO - Verificar com Edson possibilidade de poc camera Intelbras
