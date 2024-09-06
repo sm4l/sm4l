@@ -2,8 +2,8 @@
 - [ ] CERTIFICADO SSL.
 - [ ] NUC - Padronizar Config.yaml do nuc para o car.py 
 - [ ] Levantamento SCA APIs abertas.
--Vault next usa DB
--ControlID tem api aberta
+- Vault next usa DB
+- ControlID tem api aberta
 
 
 ## 06/09
