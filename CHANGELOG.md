@@ -1,14 +1,15 @@
 ## 09/09
 - [ ] CERTIFICADO SSL.
 - [ ] Levantamento SCA APIs abertas.
+- [ ] 
 
 ## 06/09
 - [ ] Criação do Dashboard 1.5 GALPÕES
 - [ ] Debug sistema ONVIF tirando foto e salvando erroneamente
+- [ ] Padronizar Config.yaml do nuc para o car.py
 
 ## 05/09
-- [ ] Pesquisa Camera IP para teste  YOLO - Verificar com Edson possibilidade de poc camera Intelbras
-- [ ] Padronizar Config.yaml do nuc para o car.py
+- [X] Pesquisa Camera IP para teste  YOLO - Ailton disse que tem uma em casa parada.
 
 ## 04/09
 - [x] SCRIPT ONVIF/MJPEG para qualquer camera virar ANPR, criado o script para detectar se é um carro que usa o modelo YOLO.
