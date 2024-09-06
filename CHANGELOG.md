@@ -1,19 +1,19 @@
 ## 09/09
 - [ ] CERTIFICADO SSL.
 - [ ] Levantamento SCA APIs abertas.
-- [ ] 
 
 ## 06/09
-- [ ] Criação do Dashboard 1.5 GALPÕES
-- [ ] Debug sistema ONVIF tirando foto e salvando erroneamente
-- [ ] Padronizar Config.yaml do nuc para o car.py
+- [x] Criação do Dashboard [1.5 GALPÕES](http://datawatcher360.online/d/fdwps7wy1mfb4b/1-5-galpoes?orgId=1)
+- [x] Debug sistema ONVIF tirando foto e salvando erroneamente
+- criada a logica para enviar carro 0 caso nao tenha carro e carro 1 caso tenha. 
+- [ ] NUC - Padronizar Config.yaml do nuc para o car.py 
 
 ## 05/09
 - [X] Pesquisa Camera IP para teste  YOLO - Ailton disse que tem uma em casa parada.
 
 ## 04/09
 - [x] SCRIPT ONVIF/MJPEG para qualquer camera virar ANPR, criado o script para detectar se é um carro que usa o modelo YOLO.
-- [ ] **Falta testar com outras marcas e adaptar o link de stream**. 
+- [ ] :warning: **Falta testar com outras marcas e adaptar o link de stream**. :warning:
      
 ## 03/09
 - [x] Criação Dashboard [1.4 SUPERMERCADOS](http://datawatcher360.online/d/cdwokjwmqdf5sf/1-4-supermercados?orgId=1&from=now-15m&to=now)
