@@ -4,7 +4,9 @@
 - [ ] Levantamento SCA APIs abertas.
 - Vault next usa DB
 - ControlID tem api aberta
-
+- [x] backup aplicação
+- [x] backup node
+- [x] backup esturura db
 
 ## 06/09
 - [x] Criação do Dashboard [1.5 GALPÕES](http://datawatcher360.online/d/fdwps7wy1mfb4b/1-5-galpoes?orgId=1)
