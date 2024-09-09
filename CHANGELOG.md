@@ -4,8 +4,7 @@
 ## 10/09
 - [ ] CERTIFICADO SSL.
 - [ ] NUC - Padronizar Config.yaml do nuc para o car.py
-- [ ] root url estava exibindo a  porta, feita a mudança no grafana.ini
-
+- [x] root url estava exibindo a  porta, feita a mudança no grafana.ini
 
 ## 09/09
 - [ ] Levantamento SCA APIs abertas.
