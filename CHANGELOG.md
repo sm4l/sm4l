@@ -1,9 +1,14 @@
-## 09/09
+## 11/09-13/09
+- [ ] testes com Vault Next Demo para consumir informações do SCA ASSA ABLOY
+
+## 10/09
 - [ ] CERTIFICADO SSL.
 - [ ] NUC - Padronizar Config.yaml do nuc para o car.py 
+
+## 09/09
 - [ ] Levantamento SCA APIs abertas.
-- Vault next usa DB
-- ControlID tem api aberta
+- Vault next usa DB - SQL FREE
+- ControlID tem api aberta pesquisar
 - [x] backup aplicação
 - [x] backup node
 - [x] backup esturura db
